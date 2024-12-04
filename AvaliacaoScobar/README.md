@@ -32,3 +32,7 @@ O backend será iniciado em: http://localhost:8080
 
 O frontend estará disponível em: http://localhost:3000
 
+Nas páginas de Usuários, Fornecedores e Produtos, ao recarregar, o programa solicita que o login seja feito novamente.
+Por outro lado, nas páginas de Carrinho e Pagamento, o sistema utiliza os dados do último usuário autenticado. Para alterar o usuário nessas páginas, é necessário realizar um novo login.
+
+Caso precise voltar no web sitem utilize as seta acima do navegador.
